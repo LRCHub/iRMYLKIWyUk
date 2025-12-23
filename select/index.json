@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ドメスティックでバイオレンス",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-23T06:18:15.873702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドメスティックでバイオレンス",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_ドメスティックでバイオレンス_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドメスティックでバイオレンス - Domestic De Violence",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_ドメスティックでバイオレンス_-_Domestic_De_Violence_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドメスティックでバイオレンス",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_ドメスティックでバイオレンス_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドメスティックでバイオレンス (\"Domestic De Violence\")",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_ドメスティックでバイオレンス_(_Domestic_De_Violence_)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Domestic De Violence (ドメスティックでバイオレンス)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_Domestic_De_Violence_(ドメスティックでバイオレンス)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "【Ado】ドメスティックでバイオレンス",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_【Ado】ドメスティックでバイオレンス_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドメスティックでバイオレンス (家庭暴力)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_ドメスティックでバイオレンス_(家庭暴力)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドメスティックでバイオレンス (instrumental)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_ドメスティックでバイオレンス_(instrumental)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドメスティックでバイオレンス",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ドメスティックでバイオレンス_Ado.txt"
+    }
+  ]
+}
